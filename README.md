@@ -6,7 +6,7 @@ Containerize a simple HTML web application using Docker and Nginx.
 
 ## Architecture
 
-![Docker Project 1 Architecture](architecture-diagram.png)
+![Docker Project 1 Architecture](architecture.png)
 
 Browser → Docker Host → Docker Container → Nginx → index.html
 
